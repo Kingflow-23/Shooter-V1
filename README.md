@@ -46,6 +46,8 @@ All key parameters—like enemy spawn rate, range, and effects—can be modified
 
 ## 🎥 Demo
 
+https://github.com/user-attachments/assets/30fb8cb6-3180-4171-b1ec-37f79e953aa0
+
 ## 📄 License
 This project is open-source and licensed under the MIT License.
 
